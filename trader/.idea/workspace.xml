@@ -56,13 +56,9 @@
             <entry file="file://$PROJECT_DIR$/app/ctaStrategy/strategy/strategyZero.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="270">
-                  <caret line="259" column="1" lean-forward="false" selection-start-line="259" selection-start-column="1" selection-end-line="259" selection-end-column="1" />
+                  <caret line="259" column="0" lean-forward="true" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
                   <folding>
                     <element signature="e#204#235#0" expanded="true" />
-                    <marker date="1526363912552" expanded="true" signature="795:18524" ph="..." />
-                    <marker date="1526363912552" expanded="true" signature="7734:9457" ph="..." />
-                    <marker date="1526363912552" expanded="true" signature="10506:10717" ph="..." />
-                    <marker date="1526363912552" expanded="true" signature="10825:10858" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -831,13 +827,9 @@
     <entry file="file://$PROJECT_DIR$/app/ctaStrategy/strategy/strategyZero.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="259" column="1" lean-forward="false" selection-start-line="259" selection-start-column="1" selection-end-line="259" selection-end-column="1" />
+          <caret line="259" column="0" lean-forward="true" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
           <folding>
             <element signature="e#204#235#0" expanded="true" />
-            <marker date="1526363912552" expanded="true" signature="795:18524" ph="..." />
-            <marker date="1526363912552" expanded="true" signature="7734:9457" ph="..." />
-            <marker date="1526363912552" expanded="true" signature="10506:10717" ph="..." />
-            <marker date="1526363912552" expanded="true" signature="10825:10858" ph="..." />
           </folding>
         </state>
       </provider>

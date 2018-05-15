@@ -257,7 +257,7 @@ class ZeroStrategy(CtaTemplate):
 
         #orderminute
         self.orderMinute = True
-d
+
         #对相应订单编号进行管理
         if order.status == STATUS_NOTTRADED:
             self.reactOrder(order,order.vtOrderID)
